@@ -12,7 +12,7 @@
  
  - So, prepare 8 questions(4 for the Chief Executive Officer & 4 for the Chief Marketing Officer)
   
- Answer : [Task 1](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Task%201.txt) 
+ Answer : [Task 1](https://github.com/Anniee-anjali/Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Task%201.txt) 
  
  ## Task - 2
  ### Choosing the Rights Visual:
