@@ -1,6 +1,6 @@
 # TATA-Data-visualization-Internship
 ## Certificate
-[Certificate](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Tata%20Data%20Visualisation%20Certificate.pdf)
+[Certificate](https://github.com/Anniee-anjali/TATA-Data-visualization-Internship/blob/main/Tata%20Data%20Visualisation%20Certificate.pdf)
 
 ## Task - 1
 ### Framing the Business Scenario:
